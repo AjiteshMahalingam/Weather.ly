@@ -1,0 +1,28 @@
+body{
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    /* max-width: 60%;
+    margin: 0 auto;
+    padding: 5px 10px; */
+    background-image: url('/img/bg-img.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow-y: hidden;
+    height: 100vh;
+    
+}
+
+a {
+    font-size: larger;
+}
+
+p  {
+    font-size: large;
+}
+
+input {
+    height: 40px;
+    padding: 3px;
+    font-size: 18pt;
+}
