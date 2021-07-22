@@ -37,7 +37,7 @@ app.get('/help', (req, res) => {
     res.render('help', {
         title: 'Help',
         name: 'Ajitesh',
-        msg: 'This is a weather application to find the current weather across the globe.'
+        msg: 'Weather.ly is an Express application displaying current weather data using Geocoding. It utilizes Mapbox and Weatherstack APIs.'
     });
 });
 
